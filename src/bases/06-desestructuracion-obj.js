@@ -1,4 +1,4 @@
-// desestructuracion
+// desestructuracion de objetos
 
 const persona = {
     nombre: 'Sebastian',
